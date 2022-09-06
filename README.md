@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img width="400" height="400" alt="coding "src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img width="100%" height="400" alt="coding "src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya0902&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya0902" /> </p>
 
